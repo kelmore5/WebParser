@@ -7,22 +7,29 @@ For sorting/searching, go to View > Sort By or View > Search By.
 Here are some screenshots for usages:
 
 Main Screen:
+
 ![Main Screen](/Screenshots/1MainScreen.png?raw=true "Main Screen")
 
 File Menu:
+
 ![File Menu](/Screenshots/2FileMenu.png?raw=true "File Menu")
 
 Add URL:
+
 ![Add URL](/Screenshots/3AddURL.png?raw=true "Add URL")
 
 Main Display:
+
 ![Main Display](/Screenshots/4MainDisplay.png?raw=true "Main Display")
 
 Sort Menu:
+
 ![Sort Menu](/Screenshots/5SortMenu.png?raw=true "Sort Menu")
 
 Sort by ID:
+
 ![Sort by ID](/Screenshots/6SortByID.png?raw=true "Sort by ID")
 
 Sort by Class:
+
 ![Sort by Class](/Screenshots/7SortByClass.png?raw=true "Sort by Class")
